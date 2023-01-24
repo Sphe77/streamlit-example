@@ -1,3 +1,4 @@
-altair
+folium
 pandas
 streamlit
+streamlit_folium
